@@ -12,6 +12,7 @@ export function binario() {
     }
     if (number < 0) {
         mostrarEnPantalla("conversiones de negativos no disponibles");
+        return
     }
     let numeroOriginal = number;
     let binary = "";
