@@ -8,6 +8,6 @@ export function binarioinverso() {
         mostrarEnPantalla(`El numero ${numeroOriginal} en base 10 es ${numeroAconvertir}`);
     }
     else {
-        mostrarEnPantalla("Ingresa un numero válido");
+        mostrarEnPantalla("el numero ingresado solo puede tener 1s y 0s");
     }
 }

@@ -41,3 +41,7 @@ if (form) {
     console.error("No se encontró el formulario para conversión de dólares.");
 }
 
+data={
+    dollars: Number //siendo Number cualquier valor numerico
+}
+
